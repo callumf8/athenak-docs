@@ -56,6 +56,7 @@ AMR framework and Physics solvers.
    diffusion
    source_terms
    radiation
+   nr_radiation
    numerical_relativity
    dyngrmhd
    dyngrmhd_eos
